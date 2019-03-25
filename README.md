@@ -29,3 +29,9 @@ toil over.
 - Prabhat Kumar (Javascript)
 - Priyanka Kumar (Logo and Graphic Design)
 - Prabhat "Kumar, Yeah?" Priyanka (FrontEnd Engineering)
+
+## Oh, Thanks!
+
+By the way... thank you! And if you'd like to say thanks, howdy.github@gmail.com ... :) 
+
+✨🍰✨
