@@ -35,7 +35,7 @@ ruamel.yaml==0.14.11
 sendgrid==4.0.0
 six==1.10.0
 SQLAlchemy==1.1.9
-tablib==0.11.4
+tablib==0.11.5
 tzlocal==1.4
 Werkzeug==0.12.1
 whitenoise==3.3.0
