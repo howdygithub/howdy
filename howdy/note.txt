@@ -1,0 +1,6 @@
+PostgreSQL: https://www.postgresql.org/
+
+pgcrypto
+
+The pgcrypto module provides cryptographic functions for PostgreSQL.
+https://www.postgresql.org/docs/8.3/pgcrypto.html
